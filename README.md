@@ -6,7 +6,7 @@ Creating a car model - ODE, Derivation, State-Space Representation, Simulation -
 
 Using problem given:
 
-
+.
 
 
 
