@@ -2,7 +2,7 @@
 
 Creating a car model - ODE, Derivation, State-Space Representation, Simulation - Matlab and Analysis.
 
-
+d
 
 Using problem given:
 
