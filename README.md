@@ -10,7 +10,5 @@ Using problem given:
 
 
 
-!\[Error404](https://github.com/ADeadTeddyBear/ELE466/blob/main/Images/Problem%20to%20solve.png)
-
-
+!\[Error404](Problem to solve.png)
 
